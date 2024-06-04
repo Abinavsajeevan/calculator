@@ -1,0 +1,52 @@
+html body {
+    background-color: rgb(240, 143, 143);
+}
+
+.calc-main {
+    background-color: rgb(29, 10, 10);
+    margin: 55px;
+    /* height: 100% */
+    /* width: 100%; */
+}
+
+input {
+    width: 100%;
+    background-color: rgb(65, 60, 60);
+    height: 165%;
+    margin-bottom: 12px;
+    padding-right: 25px;
+    color: aliceblue;
+}
+
+.row-btn {
+    /* padding: 0 12px; */
+    padding: 0 40px;
+    padding-left: 20px;
+}
+
+.btn-large {
+    margin-bottom: 12px;
+    width: 500px;
+}
+
+.a-btn { 
+    text-align: center;
+    height: 40px;
+    background-color: gray;
+} 
+
+.clear {
+    background-color: rgb(116, 116, 203);
+}
+
+.a-btn:hover {
+    background-color: rgb(147, 136, 136);
+}
+
+.clear:hover {
+    background-color: rgb(139, 139, 210);
+}
+
+.a-btn:focus {
+    background-color: rgb(229, 39, 39);
+}
